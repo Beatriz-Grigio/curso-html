@@ -1,0 +1,14 @@
+@charset  "UTF-8";
+
+p {
+    /*text-align: justify; serve para formatar o texto alinhando à direita e esquerda*/
+    text-align: justify;
+    /*text-indent; serve para gerar uma marca de paragrafo*/
+    text-indent: 50px;
+}
+
+body {
+    background-color: #F2EEF0;
+    /* opacity: altera a opacidade do elemento*/
+    opacity: 1;
+}
